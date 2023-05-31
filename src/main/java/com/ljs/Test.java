@@ -6,5 +6,6 @@ public class Test {
         System.out.println(111);
         System.out.println();
         System.out.println("冲突");
+        System.out.println("pull");
     }
 }
